@@ -1,5 +1,5 @@
 # Vanilla JS Projects
-
+doing some modifications for workflow pattern
 #### Enroll In The Course
 
 [My Javascript Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/?referralCode=DD9FA6C0D976918D3E1C)
